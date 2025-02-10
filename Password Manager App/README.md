@@ -32,3 +32,5 @@ This project allows you to generate, save, and search for passwords. It uses a g
 
 
 Enjoy managing your passwords easily!
+
+[Link to the project's repo](https://github.com/Songhai9/Password-Manager)
