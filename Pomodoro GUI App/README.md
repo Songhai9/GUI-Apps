@@ -17,3 +17,5 @@ This is a simple Pomodoro timer application built with Python's Tkinter library.
 4. **Reset Option:** The "Reset" button stops the timer and clears all session progress.
 
 Enjoy using the Pomodoro Timer to boost your productivity!
+
+[Link to the project's repo](git remote add origin https://github.com/Songhai9/Pomodoro-App)
