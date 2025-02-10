@@ -16,3 +16,6 @@ This project uses the Tkinter library for the graphical user interface (GUI). Wh
 ## Conclusion
 
 This Flash Card Program is a practical tool for language learners. Feel free to modify and expand the project to suit your needs. Enjoy learning French with interactive flash cards!
+
+
+[Link to the project's repo](https://github.com/Songhai9/Flash-Card-App)
